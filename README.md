@@ -22,7 +22,7 @@ Key highlights:
 ## 📱 Quick Access
 Scan the QR code below to open the interactive Power BI dashboard on your phone:
 
-![QR Code to Dashboard](assets/qr/qr_dashboard.png)
+![QR Code to Dashboard](https://github.com/TheNitinChauhan/india-elections-2024/blob/main/QR_India_Elections_2024_Complete.jpg)
 
 ## Problem statement
 Build an end-to-end analysis that:
@@ -60,7 +60,7 @@ Build an end-to-end analysis that:
 ---
 
 ## Data model (high level)
-Key tables expected (refer to `docs/Data Modeling PPT.pptx` for ERD):
+
 - `states` — master list of states (State_ID, State_Name, etc.)  
 - `statewise_results` — state-level aggregates and metadata  
 - `constituencywise_results` — one row per constituency (Constituency_ID, Parliament_Constituency, Constituency_Name, Winning_Party_ID, Total_Votes, Margin, etc.)  
